@@ -37,7 +37,7 @@ module.exports = {
 					options: {
 					presets: ['env']
 					}
-				}
+				 }
 			},
 		]
 	},
