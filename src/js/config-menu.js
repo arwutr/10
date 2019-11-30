@@ -172,11 +172,11 @@ var menu_template = `
 			<a class="trn" href="#">Help</a>
 			<ul>
 				<li><a class="trn dots" data-target="help/shortcuts.shortcuts" href="#">Keyboard Shortcuts</a></li>
-				<li><a class="trn external" target="_blank" href="https://github.com/viliusle/miniPaint/issues">Report issues</a></li>
+				<li><a class="trn external" target="_blank" href="https://arwutr.github.io/10/">Report issues</a></li>
 				<li class="more">
 					<a class="trn" href="#">Language</a>
 					<ul>
-						<li><a data-target="help/translate.translate.en" href="#">English</a>
+						<li><a data-target="help/translate.translate.en" href="#">อังกฤษ</a>
 						<li><div class="mid-line"></div></li>
 						<li><a data-target="help/translate.translate.zh" href="#">简体中文）</a>
 						<li><a data-target="help/translate.translate.es" href="#">Español</a>
