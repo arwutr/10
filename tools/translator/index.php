@@ -62,6 +62,7 @@ $translator = new Translator();
 			catch (Exception $exc) {
 				echo '<div style="margin-top:10px;color:red;">ERROR: ' . $exc->getMessage() . '</div>';
 			}
+			
 		}
 		?>
 	</form>
